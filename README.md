@@ -1,7 +1,7 @@
-# Charging-Sound
+# Charging Sound
 Set a sound when your charging cord is plugged in or removed.
 
-If you want to see the source code of Charging-Sound, please see [this link](). The original program was coded using Python 3, and packaged using PyInstaller. Please follow the "Install" instructions below to properly install the program onto your computer. More instructions can be found below to solve other issues. If a problem persists, please report it. I would be happy to solve it.
+If you want to see the source code of Charging-Sound, please see [this link](https://github.com/TomTheCatt/Charging-Sound-Source). The original program was coded using Python 3, and packaged using PyInstaller. Please follow the "Install" instructions below to properly install the program onto your computer. More instructions can be found below to solve other issues. If a problem persists, please report it. I would be happy to solve it.
 
 ## Install
 
