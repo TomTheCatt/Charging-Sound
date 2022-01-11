@@ -38,9 +38,9 @@
   </Settings>
   <Actions Context="Author">
     <Exec>
-      <Command>C:\Users\salty\AppData\Local\Temp\_MEI17562\main.pyc</Command>
-      <Arguments>/c python C:\Users\salty\AppData\Local\Temp\_MEI17562\main.pyc</Arguments>
-      <WorkingDirectory>C:\Users\salty\OneDrive\Documents\Charging_Sound\Apps</WorkingDirectory>
+      <Command>program_direc</Command>
+      <Arguments>arguement_direc</Arguments>
+      <WorkingDirectory>start_in_direc</WorkingDirectory>
     </Exec>
   </Actions>
 </Task>
