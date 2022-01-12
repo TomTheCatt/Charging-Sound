@@ -6,6 +6,7 @@ If you want to see the source code of Charging-Sound, please see [this link](htt
 ### **THIS PROGRAM CAN ONLY BE RUN ON A WINDOWS 7 OR HIGHER PC**
 
 ## Install
+**BEFORE INSTALLING:** Extract all files to a desired directory. Do not run file in `.zip` file format.
 
 ### Step 1
 Download the file through Github. Python 3 is not needed.
